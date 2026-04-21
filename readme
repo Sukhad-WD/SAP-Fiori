@@ -1,0 +1,39 @@
+#  SAP R2R (Record-to-Report) Project
+
+## Overview
+
+This project demonstrates the complete Record-to-Report (R2R) cycle in SAP FI, including journal entries, ledger management, and financial reporting.
+
+## Company Scenario
+
+ABC Manufacturing Pvt. Ltd., a manufacturing firm, uses SAP FI for managing financial transactions and reporting.
+
+## Process Flow
+
+Journal Entry → General Ledger → Trial Balance → Profit & Loss → Balance Sheet
+
+## Features
+
+* Journal Entry Simulation
+* Trial Balance Generation
+* Profit & Loss Calculation
+* Balance Sheet Generation
+
+## Run Project
+
+pip install -r requirements.txt
+python simulation/main.py
+
+## Screenshots
+
+Refer to images/ folder
+
+##  Learning Outcome
+
+* SAP FI R2R understanding
+* Financial reporting concepts
+* Practical simulation
+
+## GitHub Submission
+
+Submit this repository link.
